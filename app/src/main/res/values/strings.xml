@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">MyKotlinApp</string>
+    <string name="first_android_app_on_kotlin">First Android App on Kotlin!</string>
 </resources>
